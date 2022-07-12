@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+This project is a UI to the contract
+Ropsten - https://ropsten.etherscan.io/address/0xd4cf3401a44814e7743c9aae365d780f800c079c#code
+Reop - https://github.com/XP-NETWORK/David_contract
+
 ## Available Scripts
 
 In the project directory, you can run:
